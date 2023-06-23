@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Vishwakarma</h1>
 <h3 align="center">😎A passionate and reliable full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **DevOps**
 
 - 🤝 I’m looking for help with **Web Projects**
 
