@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 🤝 I’m looking for help with **Web Projects**
+- 🤝 I’m looking for help with **Backend Integrations**
 
 - 💬 Ask me about **Full Stack Web Development**
 
