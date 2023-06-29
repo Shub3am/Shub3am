@@ -28,6 +28,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shub3am&show_icons=true&theme=radical&locale=en&layout=compact" alt="shub3am" /></p>
 
-<p><html><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shub3am&" alt="shub3am" /></html></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shub3am&" alt="shub3am" /></p>
 
 
