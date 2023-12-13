@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 🤝 I’m looking for help with **Backend Integrations**
+- 🤝 I’m looking for help with **AI Automations**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Dev**
 
 - 📫 How to reach me **shubham@vshubham.xyz**
 
