@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Vishwakarma, 17</h1>
-<h3 align="center">😎 Passion Driven Enthusiastic IBM, Meta and HackerRank Certified Full Stack Engineer from India</h3>
+<h3 align="center">😎 Passion Driven Enthusiastic Software Engineer from India</h3>
 
 - 🌱 I’m currently learning **DevOps**
 
