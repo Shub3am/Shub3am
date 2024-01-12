@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shubham Vishwakarma, 17</h1>
+<h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">😎 Passion Driven Enthusiastic Software Engineer from India</h3>
 
 - 🌱 I’m currently learning **DevOps**
 
-- 🤝 I’m looking for help with **AI Automations**
+- 🤝 I’m looking for help with **AI Automation**
 
 - 💬 Ask me about **Web Dev**
 
