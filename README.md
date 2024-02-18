@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">😎 Passion Driven Enthusiastic Software Engineer from India</h3>
+<h3 align="center">😎 Solving Sustainable Problems through Code</h3>
 
 - 🌱 I’m currently learning **DevOps**
 
 - 🤝 I’m looking for help with **AI Automation**
 
-- 💬 Ask me about **Web Dev**
+- 💬 Ask me about **Full Stack Web Dev**
 
 - 📫 How to reach me **shubham@vshubham.xyz**
 
