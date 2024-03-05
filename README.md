@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Full Stack Web Dev**
 
-- 📫 How to reach me **shubham@vshubham.xyz**
+- 📫 How to reach me **shubham@vshubham.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shubhamvs/](https://www.linkedin.com/in/shubhamvs/)
 
