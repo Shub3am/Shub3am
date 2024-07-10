@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">😎 Solving Sustainable Problems through Code</h3>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 🤝 I’m looking for help with **AI Automation**
+- 🤝 I’m looking for help with **Robotics - AI Automation**
 
 - 💬 Ask me about **Full Stack Web Dev**
 
