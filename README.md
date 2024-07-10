@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">😎 Solving Sustainable Problems through Code</h3>
+<h3 align="center">Solopreneur, Full Stack Engineer building Audily AI, 5x Hackathon Winner, SWOC 2023, Built 4+ SaaS Startups, One of Youngest Dev Certified By IBM and HackerRank</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
