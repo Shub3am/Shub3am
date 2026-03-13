@@ -1,7 +1,5 @@
 # Hi, I'm Shubham 👋
 
-**Software engineer building AI-powered products, automation tools, and scalable backend systems.**
-
 • 19-year-old ( born 2006 ) with real-world startup experience <br>
 • Winner of **6 national hackathons** ( As of Jan 2026 ) <br>
 • Interested in **Building Scalable Solutions that gets used by millions**
