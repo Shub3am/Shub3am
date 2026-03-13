@@ -8,6 +8,15 @@
 
 I enjoy building production systems - from frontend interfaces to backend infrastructure and AI pipelines.
 
+## 🧠 Interests
+
+* ex skating and badminton athelete
+* loves driving
+* currently bodybuilding and squash as side hobby
+* tinkering with robotics ( esp32, arduino, raspb )
+
+---
+
 ## 🚀 Current Projects
 
 ### RecordScrape
@@ -59,15 +68,6 @@ Features:
 
 ### PocketPharma AI
 AI system that identifies medicines from images and suggests **affordable generic alternatives** using computer vision and LLM reasoning.
-
----
-
-## 🧠 Interests
-
-* ex skating and badminton athelete
-* loves driving
-* currently bodybuilding and squash as side hobby
-* tinkering with robotics ( esp32, arduino, raspb )
 
 ---
 
