@@ -1,6 +1,6 @@
 # Hi, I'm Shubham 👋
 
-• 19-year-old ( born 2006 ) with real-world startup experience <br>
+• I was born 2006 and since the age of 12 ( the year i also started freelancing, kudos to WordPress), i have been playing around and geeking with technology <br>
 • Winner of **6 national hackathons** ( As of Jan 2026 ) <br>
 • Interested in **Building Scalable Solutions that gets used by millions**
 
