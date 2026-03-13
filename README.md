@@ -3,33 +3,10 @@
 **Software engineer building AI-powered products, automation tools, and scalable backend systems.**
 
 • 19-year-old ( born 2006 ) with real-world startup experience <br>
-• Winner of **6 national hackathons** <br>
-• Interested in **AI applications, RAG systems, and developer automation**
+• Winner of **6 national hackathons** ( As of Jan 2026 ) <br>
+• Interested in **Building Scalable Solutions that gets used by millions**
 
 I enjoy building production systems - from frontend interfaces to backend infrastructure and AI pipelines.
-
----
-
-## 🔧 Tech Stack
-
-**Languages**
-JavaScript / TypeScript • Python • Go
-
-**Backend & APIs**
-Node.js • Fastify • Express • Flask • Django
-
-**Frontend**
-React • Next.js
-
-**AI / Data**
-RAG pipelines • LangChain • Vector Databases (Qdrant, ChromaDB)
-scikit-learn • Pandas • NumPy
-
-**Infrastructure**
-PostgreSQL • MongoDB • MySQL
-Docker • Linux • Cloudflare • GitHub Actions
-
----
 
 ## 🚀 Current Projects
 
@@ -87,10 +64,10 @@ AI system that identifies medicines from images and suggests **affordable generi
 
 ## 🧠 Interests
 
-* AI applications and RAG systems
-* developer automation tools
-* scalable backend architecture
-* data pipelines and retrieval systems
+* ex skating and badminton athelete
+* loves driving
+* currently bodybuilding and squash as side hobby
+* tinkering with robotics ( esp32, arduino, raspb )
 
 ---
 
@@ -98,12 +75,4 @@ AI system that identifies medicines from images and suggests **affordable generi
 
 Website: https://vshubham.com <br>
 LinkedIn: https://linkedin.com/in/shubhamvs <br>
-GitHub: https://github.com/shub3am <br>
 Email: shubham@vshubham.com <br>
-
----
-
-### Small Note
-
-I started building software through freelancing at the age of 13 and gradually moved into **AI systems and backend engineering**. <br>
-My goal is to build tools that automate work and turn complex ideas into practical products.
