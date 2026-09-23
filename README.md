@@ -42,7 +42,7 @@ Built through the night in the offices of
 
 **Robotics**
 
-- Product lead · DHISHTI, glasses that describe the surroundings to blind people · the product later won the CBSE Robotics Competition
+- Built DHISHTI, glasses that describe the surroundings to blind people · it later won the CBSE Robotics Competition
 
 **After work**
 
