@@ -1,76 +1,32 @@
-# Hi, I'm Shubham 👋
+### Shubham Vishwakarma
 
-• I was born 2006 and since the age of 12 ( the year i also started freelancing, kudos to WordPress), i have been playing around and geeking with technology <br>
-• Winner of **6 national hackathons** ( As of Jan 2026 ) <br>
-• Interested in **Building Scalable Solutions that gets used by millions**
+Product Manager & Tech Lead · 3x Founding Engineer · Open Source Author
 
-I enjoy building production systems - from frontend interfaces to backend infrastructure and AI pipelines.
+I wrote my first program at 11 and was freelancing by 13. Since then I've won six national hackathons, worked as an SDE, senior engineer and founding engineer, and helped products grow from 5,000 to more than 100,000 monthly users.
 
-## 🧠 Interests
+**Now**
 
-* ex skating and badminton athelete
-* loves driving
-* currently bodybuilding and squash as side hobby
-* tinkering with robotics ( esp32, arduino, raspb )
+- PM & Tech Lead at Tvaram, building InboxValid, InboxReady and Clearbol
+- BSc Computer Science, AI/ML, at the University of London
+- Taking new ideas to real users, testing fast and scaling what sticks
 
----
+**Open source**
 
-## 🚀 Current Projects
+- [BrandPulse](https://github.com/Shub3am/BrandPulse) · Go · catches brand crises before customers do
+- [HeyDot](https://github.com/Shub3am/heyDot) · Python · a voice assistant that never leaves your laptop
+- [RecallEngine](https://github.com/Shub3am/RecallEngine) · Python · keyword, BM25, semantic and hybrid search from one import
+- [RecordScrape](https://github.com/Shub3am/RecordScrape) · Python · record a browser session once, scrape it forever
+- [PostPilot](https://github.com/Shub3am/PostPilot) · TypeScript · write once, post to LinkedIn, X and Dev.to
 
-### RecordScrape
+**Selected wins**
 
-A browser automation tool that **records user actions and converts them into repeatable scraping workflows**.
+- Winner, CodeClash 2.0 at Google, 1,200+ teams
+- Top 10, Code for Bharat at Microsoft, 3,000+ teams
+- Top 15, Code the Cubicle 3.0 at Mastercard, 3,500+ teams
+- Winner, CBSE Robotics Competition with DHISHTI
 
-Use cases:
+**After work**
 
-* lead generation
-* price monitoring
-* directory scraping
-* research automation
+Bodybuilding, long drives and wiring up ESP32s. I used to skate at district level and play badminton at state level.
 
----
-
-### RAG Toolkit *(in progress)*
-
-An experimental **high-performance RAG framework** for building scalable AI knowledge systems.
-
-Focus areas:
-
-* document ingestion pipelines
-* custom parsing systems
-* retrieval optimization
-* vector search performance
-
----
-
-### WearWise AI
-AI-powered health analysis system that combines **smartwatch vitals with user symptoms** to generate diagnostic insights using RAG pipelines.
-
-Key ideas:
-- ingestion of health telemetry  
-- vector search over health knowledge  
-- LLM-based diagnostic reasoning  
-- AI-generated health reports
-
----
-
-### Legal Saathi AI
-AI-powered legal assistant trained on Indian legal acts using **RAG architecture and LLMs**.
-
-Features:
-- legal document retrieval  
-- conversational Q&A  
-- voice-enabled call assistant  
-
----
-
-### PocketPharma AI
-AI system that identifies medicines from images and suggests **affordable generic alternatives** using computer vision and LLM reasoning.
-
----
-
-## 🌐 Connect
-
-Website: https://vshubham.com <br>
-LinkedIn: https://linkedin.com/in/shubhamvs <br>
-Email: shubham@vshubham.com <br>
+[vshubham.com](https://vshubham.com) · [LinkedIn](https://linkedin.com/in/shubhamvs) · [X](https://x.com/Shubh3m) · [shubham@vshubham.com](mailto:shubham@vshubham.com)
