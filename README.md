@@ -42,7 +42,7 @@ Built through the night in the offices of
 
 **Robotics**
 
-- Built DHISHTI, glasses that describe the surroundings to blind people · it later won the CBSE Robotics Competition
+- Built DHISHTI, AI glasses that describe the surroundings to blind people using a model we fine-tuned · it later won the CBSE Robotics Competition
 
 **After work**
 
