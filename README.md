@@ -18,12 +18,31 @@ I wrote my first program at 11 and was freelancing by 13. Since then I've won si
 - [RecordScrape](https://github.com/Shub3am/RecordScrape) · Python · record a browser session once, scrape it forever
 - [PostPilot](https://github.com/Shub3am/PostPilot) · TypeScript · write once, post to LinkedIn, X and Dev.to
 
-**Selected wins**
+**Hackathons**
 
-- Winner, CodeClash 2.0 at Google, 1,200+ teams
-- Top 10, Code for Bharat at Microsoft, 3,000+ teams
-- Top 15, Code the Cubicle 3.0 at Mastercard, 3,500+ teams
-- Winner, CBSE Robotics Competition with DHISHTI
+Built through the night in the offices of
+
+<img src="logos/google.svg" height="20" alt="Google">&nbsp;&nbsp;&nbsp;
+<img src="logos/microsoft.svg" height="20" alt="Microsoft">&nbsp;&nbsp;&nbsp;
+<img src="logos/mastercard.svg" height="20" alt="Mastercard">&nbsp;&nbsp;&nbsp;
+<img src="logos/paytm.svg" height="20" alt="Paytm">&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="logos/devfolio-dark.svg"><img src="logos/devfolio.svg" height="20" alt="Devfolio"></picture>&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="logos/anakin-dark.png"><img src="logos/anakin.png" height="20" alt="Anakin"></picture>&nbsp;&nbsp;&nbsp;
+<img src="logos/dtu.png" height="28" alt="Delhi Technological University">&nbsp;&nbsp;&nbsp;
+<img src="logos/geeksforgeeks.svg" height="20" alt="GeeksforGeeks">
+
+- Winner · CodeClash 2.0 · Google, Gurugram · 1,200+ teams
+- 2nd · Live the Code 3.0 · ADGIPS, New Delhi
+- 3rd & Top 10 · Code for WIE 3.0 · MSIT, New Delhi · 300+ teams
+- Best Rookie Hack · Tech Ingenium 5.0 · Ahmedabad University
+- Top 10 · Code for Bharat · Microsoft, Gurugram · 3,000+ teams
+- Top 10 & Special Mention · InnovateX · DTU, New Delhi
+- Top 10 · HackBLR · Bengaluru
+- Top 15 · Code the Cubicle 3.0 · Mastercard, Gurugram · 3,500+ teams
+
+**Robotics**
+
+- Winner · CBSE Robotics Competition · DHISHTI, glasses that describe the surroundings to blind people
 
 **After work**
 
