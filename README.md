@@ -42,8 +42,8 @@ Built through the night in the offices of
 <img src="logos/microsoft.svg" height="20" alt="Microsoft">&nbsp;&nbsp;&nbsp;
 <img src="logos/mastercard.svg" height="20" alt="Mastercard">&nbsp;&nbsp;&nbsp;
 <img src="logos/paytm.svg" height="20" alt="Paytm">&nbsp;&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="logos/devfolio-dark.svg"><img src="logos/devfolio.svg" height="20" alt="Devfolio"></picture>&nbsp;&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="logos/anakin-dark.png"><img src="logos/anakin.png" height="20" alt="Anakin"></picture>&nbsp;&nbsp;&nbsp;
+<img src="logos/devfolio.svg" height="20" alt="Devfolio">&nbsp;&nbsp;&nbsp;
+<img src="logos/anakin.png" height="20" alt="Anakin">&nbsp;&nbsp;&nbsp;
 <img src="logos/dtu.png" height="28" alt="Delhi Technological University">&nbsp;&nbsp;&nbsp;
 <img src="logos/geeksforgeeks.svg" height="20" alt="GeeksforGeeks">
 
