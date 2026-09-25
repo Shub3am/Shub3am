@@ -30,7 +30,7 @@ I wrote my first program at 11 and was freelancing by 13. Since then I've won si
 - [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) · 31.6K★ · humanized clicks on wide pages ([#554](https://github.com/CloakHQ/CloakBrowser/pull/554)), parallel first launches corrupting the install ([#555](https://github.com/CloakHQ/CloakBrowser/pull/555))
 - [Nasiko](https://github.com/Nasiko-Labs/nasiko) · 7.7K★ · server crash on non-English manifests and 4 CLI fixes ([5 PRs](https://github.com/Nasiko-Labs/nasiko/pulls?q=is%3Apr+author%3AShub3am))
 - [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) · 35.9K★ · migrations failing on a duplicate primary key after merging branches ([#6365](https://github.com/drizzle-team/drizzle-orm/pull/6365))
-- [Avo](https://github.com/avo-hq/avo) · 1.8K★ · tables turning horizontally scrollable after "Select All" ([#3537](https://github.com/avo-hq/avo/pull/3537), merged)
+- [Avo](https://github.com/avo-hq/avo) · 1.8K★ · tables turning horizontally scrollable after "Select All" ([#3537](https://github.com/avo-hq/avo/pull/3537), merged), actions dropping the id of a polymorphic belongs_to field ([#4819](https://github.com/avo-hq/avo/pull/4819), merged), media library crashing when the attached record is gone ([#4820](https://github.com/avo-hq/avo/pull/4820))
 
 **Hackathons**
 
