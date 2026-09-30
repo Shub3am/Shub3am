@@ -13,10 +13,10 @@ I wrote my first program at 11 and was freelancing by 13. Since then I've won si
 **Open source**
 
 - [BrandPulse](https://github.com/Shub3am/BrandPulse) · Go · catches brand crises before customers do
-- [HeyDot](https://github.com/Shub3am/heyDot) · Python · a voice assistant that never leaves your laptop
-- [RecallEngine](https://github.com/Shub3am/RecallEngine) · Python · keyword, BM25, semantic and hybrid search from one import
-- [RecordScrape](https://github.com/Shub3am/RecordScrape) · Python · record a browser session once, scrape it forever
-- [PostPilot](https://github.com/Shub3am/PostPilot) · TypeScript · write once, post to LinkedIn, X and Dev.to
+- [HeyDot](https://github.com/Shub3am/heyDot) · Python · 1★ · a voice assistant that never leaves your laptop
+- [RecallEngine](https://github.com/Shub3am/RecallEngine) · Python · 19★ · 11 forks · keyword, BM25, semantic and hybrid search from one import
+- [RecordScrape](https://github.com/Shub3am/RecordScrape) · Python · 15★ · 1 fork · record a browser session once, scrape it forever
+- [PostPilot](https://github.com/Shub3am/PostPilot) · TypeScript · 1★ · write once, post to LinkedIn, X and Dev.to
 
 **Active open source contributor**
 
